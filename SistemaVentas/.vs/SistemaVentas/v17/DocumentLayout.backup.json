@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmpresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33673446-DBC8-4F1C-930C-38A199A21144}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capadatos\\dpresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388537D2-1B7E-4BBF-8C4F-789C39ACD608}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capanegocio\\npresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33673446-DBC8-4F1C-930C-38A199A21144}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capadatos\\dcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33673446-DBC8-4F1C-930C-38A199A21144}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmarticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\frmpresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388537D2-1B7E-4BBF-8C4F-789C39ACD608}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capanegocio\\narticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33673446-DBC8-4F1C-930C-38A199A21144}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capadatos\\darticulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B659FFFA-A751-4996-AB83-3F0B76DDEE88}|SistemaVentas.csproj|C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B659FFFA-A751-4996-AB83-3F0B76DDEE88}|SistemaVentas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96692866-6F56-4DE5-88C5-76D0DDB81316}|..\\CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capapresentacion\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388537D2-1B7E-4BBF-8C4F-789C39ACD608}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33673446-DBC8-4F1C-930C-38A199A21144}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\marisol\\documents\\documentos clases universidad\\programacion ii\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B659FFFA-A751-4996-AB83-3F0B76DDEE88}|SistemaVentas.csproj|C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B659FFFA-A751-4996-AB83-3F0B76DDEE88}|SistemaVentas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmPresentacion.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmPresentacion.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmPresentacion.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmPresentacion.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAACcBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:54:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:18:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmArticulo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmArticulo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:02:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmArticulo.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmArticulo.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmArticulo.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmArticulo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:05:31.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\NArticulo.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\NArticulo.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\NArticulo.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\NArticulo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:15:27.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DArticulo.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DArticulo.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DArticulo.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DArticulo.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DArticulo.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAAAHcBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:15:42.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmCategoria.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAowFwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:58:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPresentacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmPresentacion.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmPresentacion.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmPresentacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmPresentacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:43:27.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\NPresentacion.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\NPresentacion.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\NPresentacion.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\NPresentacion.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T22:34:08.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmCategoria.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\FrmCategoria.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\CapaPresentacion\\FrmCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T13:10:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DPresentacion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DPresentacion.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DPresentacion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DPresentacion.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAAALMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:39:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:47:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DCategoria.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DCategoria.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\DCategoria.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DCategoria.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAK4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T22:46:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CapaPresentacion\\Class1.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaPresentacion\\Class1.cs",
+              "RelativeToolTip": "..\\CapaPresentacion\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:15:03.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaNegocio\\Class1.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:14:24.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\CapaDatos\\Class1.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:10:56.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Marisol\\Documents\\Documentos Clases Universidad\\Programacion II\\SistemaVentas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:02:49.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

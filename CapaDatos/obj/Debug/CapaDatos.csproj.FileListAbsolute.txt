@@ -1,0 +1,6 @@
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaDatos\obj\Debug\CapaDatos.pdb
