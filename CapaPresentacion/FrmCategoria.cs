@@ -317,12 +317,13 @@ namespace CapaPresentacion
                             {
 
                                 this.MensajeOk("Se Elimino Correctamente el registro");
+                                chkEliminar.Checked = false;
                             }
                             else
                             {
 
                                 this.MensajeError(Rpta);
-
+                                chkEliminar.Checked = false;
                             }
 
                         }

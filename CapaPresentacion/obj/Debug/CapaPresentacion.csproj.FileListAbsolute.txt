@@ -14,3 +14,4 @@ C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaPre
 C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaPresentacion\obj\Debug\CapaPresentacion.FrmPresentacion.resources
 C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaPresentacion\obj\Debug\CapaPresentacion.FrmArticulo.resources
 C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Marisol\Documents\Documentos Clases Universidad\Programacion II\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVistaCategoria_Articulo.resources

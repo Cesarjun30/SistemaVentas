@@ -40,7 +40,7 @@ namespace CapaNegocio
             Obj.Imagen = imagen;
             Obj.Idcategoria = idcategoria;
             Obj.Idpresentacion = idpresentacion;
-            return Obj.Insertar(Obj);
+            return Obj.Editar(Obj);
         }
 
         // Este es el Metodo Eliminar que llama al metodo Eliminar de la clase DArticulo de la CapaDatos
